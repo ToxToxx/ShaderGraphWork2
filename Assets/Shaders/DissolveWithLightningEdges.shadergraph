@@ -14,9 +14,6 @@
         },
         {
             "m_Id": "0b63d7d6f160454c9908866ca39532b1"
-        },
-        {
-            "m_Id": "c573b81ac91b41f6babf198039723bf8"
         }
     ],
     "m_Keywords": [],
@@ -639,9 +636,6 @@
         },
         {
             "m_Id": "0b63d7d6f160454c9908866ca39532b1"
-        },
-        {
-            "m_Id": "c573b81ac91b41f6babf198039723bf8"
         }
     ]
 }
@@ -1642,34 +1636,6 @@
     "m_NormalDropOffSpace": 0,
     "m_ClearCoat": false,
     "m_BlendModePreserveSpecular": true
-}
-
-{
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
-    "m_ObjectId": "c573b81ac91b41f6babf198039723bf8",
-    "m_Guid": {
-        "m_GuidSerialized": "266904b1-6cb8-4b48-8f58-1cb1655ee54e"
-    },
-    "m_Name": "ObjectYSize",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "ObjectYSize",
-    "m_DefaultReferenceName": "_ObjectYSize",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_DismissedVersion": 0,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": 0.0,
-    "m_FloatType": 0,
-    "m_RangeValues": {
-        "x": 0.0,
-        "y": 1.0
-    }
 }
 
 {
